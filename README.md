@@ -5,6 +5,7 @@
 
 
 ### 개발환경(Development Environment)
+- OS : Windows
 - IDE : vscode
 - Python 3.12.1
 - pip 24.2
